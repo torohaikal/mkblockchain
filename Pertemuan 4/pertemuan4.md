@@ -38,3 +38,6 @@ Berdasarkan domain industri yang telah disepakati kelompok pada Pertemuan 1 (mis
 Medis, E-Voting, Hak Cipta, dll), kerjakan modifikasi berikut:
 1. Laporan Praktikum: Push di Github.
 2. Diskusi Kelompok tentukan Thema Projek.
+
+### E. Hasil Foto Program.
+![Foto Hasil 1](pertemuan4.png)
