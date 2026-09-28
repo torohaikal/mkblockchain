@@ -9,3 +9,6 @@ Backend (Core) dan antarmuka Frontend (UI).
 Pointers.
 4. Mahasiswa mampu mensimulasikan sistem "Traceability Rantai Pasok Kopi" sederhana di
 lingkungan lokal.
+
+## Berikut Hasil Foto Program.
+![Foto Hasil 1](pertemuan3.png)
